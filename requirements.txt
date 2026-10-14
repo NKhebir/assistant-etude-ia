@@ -1,0 +1,7 @@
+google-genai
+pypdf
+psycopg[binary]
+pgvector
+numpy
+python-dotenv
+streamlit
